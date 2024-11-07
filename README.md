@@ -1,1 +1,1 @@
-# CSLTU Cyber Security Activities
+# CS LTU Cyber Security Activities
